@@ -10,6 +10,6 @@
 
 `cd tdd-practice`
 
-**Run Funtional Test**
+**Run Test Suite**
 
-`python tests/test_functional.py`
+`python manage.py test`
